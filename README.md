@@ -37,12 +37,10 @@ npm install --save-dev typescript tsx @types/node
 npx tsc --init
 ```
 
-### Rodar Projeto no back-end e front-end
+### Rodar  Servidor - back-end
 ```bash
+git clone https://github.com/Felipesv1/Dieta-IA.git
 cd backend
-npm run dev
-cd ..
-cd web
 npm run dev
 ```
 front end -  components (next.js)
